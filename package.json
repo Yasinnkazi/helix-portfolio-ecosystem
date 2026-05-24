@@ -1,0 +1,15 @@
+{
+  "name": "helix-portfolio-ecosystem",
+  "private": true,
+  "workspaces": [
+    "printing-brand",
+    "restaurant-brand",
+    "fitness-brand",
+    "creative-agency",
+    "architecture-studio",
+    "portfolio-showcase"
+  ],
+  "dependencies": {
+    "vite": "^8.0.14"
+  }
+}
